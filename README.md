@@ -1,4 +1,4 @@
-# shield-auth
+# se-shield-auth
 
 Servicio centralizado de autenticación y autorización. Expone una API HTTP para login, refresh y logout de usuarios, y un Lambda Authorizer que valida tokens JWT en el API Gateway antes de que lleguen a otros servicios.
 
