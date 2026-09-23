@@ -1,4 +1,4 @@
-# se-shield-auth — CDK
+# lab-shield-auth — CDK
 
 Infraestructura AWS del proyecto `Shield Auth`, definida con AWS CDK (TypeScript).
 

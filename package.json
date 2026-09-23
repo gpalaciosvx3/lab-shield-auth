@@ -1,5 +1,5 @@
 {
-  "name": "se-shield-auth",
+  "name": "lab-shield-auth",
   "version": "1.0.0",
   "description": "Servicio de autenticación centralizado",
   "scripts": {
